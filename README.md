@@ -7,4 +7,4 @@
 
 <p align=center>Author: <a href=https://github.com/AkikoKumagara>AkikoKumagara</a><br/>
 Lightly inspired by the <a href="https://www.reddit.com/r/innioasis/comments/1k3anhe/my_ipodish_theme_for_the_innioasis_y1/">iPod-ish theme by NiVi-OoF</a><br/>
-Requested by <a href="https://www.reddit.com/r/innioasis/comments/1mmu3qr/comment/n83a9f4/>RespectYarn</a>
+Requested by <a href="https://www.reddit.com/r/innioasis/comments/1mmu3qr/comment/n83a9f4/">RespectYarn</a>
